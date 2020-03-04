@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
+title: grasp the gist
 description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: graspthegist
 # you can comment the below line out if your repo name is not different than your baseurl
@@ -34,11 +34,11 @@ url: "https://graspthegist.github.io" # the base hostname & protocol for your si
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/graspthegist.github.io" # the subpath of your site, e.g. "/blog".
+baseurl: "/" # the subpath of your site, e.g. "/blog".
 
 # Email and twitter are optional:
 email: 
-twitter_username: "fastdotai"
+twitter_username: "learning_kyryu"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
